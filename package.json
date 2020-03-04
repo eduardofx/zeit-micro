@@ -1,0 +1,21 @@
+{
+    "name": "zeit-microframework",
+    "version": "0.0.1",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "tsc",
+        "start": "micro --port=3007"
+    },
+   "dependencies": {
+        "apollo-server-micro": "2.11.0",
+        "graphql": "^14.6.0",
+        "micro": "^9.3.4"
+    },
+    "devDependencies": {
+        "@types/graphql": "^14.0.3",
+        "tslint": "^5.11.0",
+        "tslint-config-prettier": "^1.15.0",
+        "tslint-react": "^3.6.0",
+        "typescript": "^3.8.3"
+    }
+}
