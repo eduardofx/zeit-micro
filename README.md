@@ -14,4 +14,4 @@ npm run start
 
 ###### Execute
 
-> curl -X POST -H "Content-Type: application/json"  --data '{ "query": "{ hello }" }'  http://localhost:3007/graphql
+> curl -X POST -H "Content-Type: application/json"  --data '{ "query": "{ message }" }'  http://localhost:3007/graphql
