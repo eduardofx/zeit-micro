@@ -1,4 +1,4 @@
-# zeit microframework
+# zeit micro
 
 - [x] Typescript
 - [x] Zeit
