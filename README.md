@@ -1,4 +1,4 @@
-# zeit micro
+# Zeit Micro
 
 - [x] Typescript
 - [x] Zeit
